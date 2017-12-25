@@ -1,2 +1,3 @@
 # hello-world
-Familiarising Github
+Familiarising Github.
+I am a newbie to Github.
